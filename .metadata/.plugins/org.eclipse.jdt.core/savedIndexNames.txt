@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\User\OneDrive\Casey_one_drive\OneDrive\Documents\BSIT_1E_2nd_SEM\MIDTERM\IT 22-Computer Prog 2(Intermediate Programming)\.metadata\.plugins\org.eclipse.jdt.core
+985749750.index
+1927594738.index
+1865797976.index
